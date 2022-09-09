@@ -7,10 +7,10 @@
 
 // --------------------INSTRUCTOR EXAMPLE: What will this log?
 const colors = ["tangerine", "magenta", "lilac", "daffodil"]
-// console.log(colors.push("indigo"))
+console.log(colors.push("indigo"))
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: The array colors with indigo added ["tangerine", "magenta", "lilac", "daffodil", "indigo"]
+// b) Verify and explain: Output was 5 because the output of push method will return the length of the new array
 
 
 // --------------------1) What will this log?

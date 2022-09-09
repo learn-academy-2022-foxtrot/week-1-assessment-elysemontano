@@ -8,9 +8,9 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 INSTRUCTOR EXAMPLE: What is a conditional statement?
 
-Your answer:
+Your answer: A statement that checks if a condition is true and returning a result based on the outcome of the condition. So if I want to compare two items, I can use a conitional to see if one is greater than the other and provide an output accordingly.
 
-Researched answer:
+Researched answer: Conditionals are if else statements that allow us to evaluate a particular condition and provide a specific output accordingly.
 
 1. What is git? What is the difference between git and Github?
 
