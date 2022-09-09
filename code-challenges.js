@@ -8,15 +8,30 @@
 
 // Describe your process:
 
+// Use a conditional to compare the two strings length and return an output
+  // Determine how long each string is by using .length
+  // Relational operators to compare and provide evaluation
+  // console log the result of which string was greater 
+
 // Set one:
-const fruit1 = "apple"
-const fruit2 = "banana"
+// const fruit1 = "apple"
+// const fruit2 = "banana"
 // Expected outcome: "banana"
 
 // Set two:
-// const fruit1 = "cherry"
-// const fruit2 = "kiwi"
+const fruit1 = "cherry"
+const fruit2 = "kiwi"
 // Expected outcome: "cherry"
+
+if(fruit1.length > fruit2.length) {
+  console.log(fruit1)
+} else if(fruit1.length < fruit2.length) {
+  console.log(fruit2)
+} else {
+  console.log("Ooops, something went wrong")
+}
+
+
 
 // --------------------1) Create the code that determines if a given number is below boiling point, at boiling point, or above boiling point. Boiling point is 212 degrees Fahrenheit. Use the test variables provided below.
 
